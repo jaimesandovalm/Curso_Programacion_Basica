@@ -1,1 +1,7 @@
 Apuntes js
+
+Funcion alert
+
+	Muestra un mensaje al cargar el navegador
+	
+		- alert("mensaje") 
