@@ -1,1 +1,12 @@
 Apuntes Html
+
+Arbol de html
+
+	<html>
+		<head>
+			titulo
+		</head>
+		<body>
+			contenido
+		</body>
+	</html>
