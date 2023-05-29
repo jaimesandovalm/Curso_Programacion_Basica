@@ -9,4 +9,9 @@ Funcion alert
 Declaracion de variables
 
 	let NombredelaVariable
+	
+Clases especiales en javascript
+
+	Math.floor() //Quita los decimales a un numero
+	Math.random()//Genera un numero aleatorio entre el 0 y el 1
 		
