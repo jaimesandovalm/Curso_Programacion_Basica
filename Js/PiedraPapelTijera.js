@@ -1,7 +1,7 @@
 //Declaracion de variables
 
-let eleccionDelJugador = 0
-eleccionDelJugador = prompt("Elije 1.-Piedra, 2.- Papel, 3.- Tijera")
+//let eleccionDelJugador = 0
+let eleccionDelJugador = prompt("Elije 1.-Piedra, 2.- Papel, 3.- Tijera")
 
 //informando la eleccion del jugador
 if (eleccionDelJugador == 1) {
