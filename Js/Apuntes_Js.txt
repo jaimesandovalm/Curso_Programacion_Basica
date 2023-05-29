@@ -5,3 +5,8 @@ Funcion alert
 	Muestra un mensaje al cargar el navegador
 	
 		- alert("mensaje") 
+		
+Declaracion de variables
+
+	let NombredelaVariable
+		
